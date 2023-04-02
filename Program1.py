@@ -1,0 +1,7 @@
+#print("Twinkle, twinkle, little star, \n\tHow I wonder what you are! \n\t\tUp above the world so high, \n\t\tLike a diamond in the sky. \nTwinkle, twinkle, little star, \n\tHow I wonder what you are!")
+
+#print("my name is prashant\n\tI live in pune")
+import sys
+
+print(sys.version)
+
